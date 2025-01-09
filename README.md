@@ -26,24 +26,9 @@ The Landing Page is a modern, clean, and responsive single-page website designed
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/landing-page.git
+   git clone https://github.com/Prathmeshpawar21/Web-Dev-Landing-Page.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd landing-page
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Run the development server:
-   ```bash
-   npm start
-   ```
-5. Open your browser and visit:
-   ```
-   http://localhost:3000
-   ```
+
 
 ## Deployment
 
